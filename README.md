@@ -1,4 +1,5 @@
 ### Hi there 👋
+This is Reza Bayat, a MSc Computer Science(ML) at @Mila_Quebec working with @irinarish and @PouyaBashivan.
 
 <!--
 **rezabyt/rezabyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
